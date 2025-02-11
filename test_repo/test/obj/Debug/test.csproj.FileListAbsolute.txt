@@ -1,0 +1,2 @@
+C:\Users\Inspur\source\repos\test\obj\Debug\test.csproj.AssemblyReference.cache
+C:\Users\Inspur\source\repos\test\obj\Debug\test.csproj.CoreCompileInputs.cache
